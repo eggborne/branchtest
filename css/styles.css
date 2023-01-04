@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-color: eeeeee;
-  color: #222222;
+  background-color: #222222;
+  color: #dbdbdb;
 }
 
 main {
@@ -11,8 +11,8 @@ main {
 nav {
   top: 0;
   left: 0;
-  background-color: rgb(160, 160, 160);
-  color: #3b3b3b;
+  background-color: rgb(50, 50, 50);
+  color: #888888;
   height: 10vh;
   width: 100%;
   display: flex;
